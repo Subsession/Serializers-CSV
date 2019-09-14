@@ -1,1 +1,3 @@
-# Comertis/Serializers-CSV
+# Serializers-CSV
+
+A CSV serializer library

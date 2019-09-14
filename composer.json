@@ -1,16 +1,17 @@
 {
-    "name": "comertis/serializers-csv",
-    "description": "CSV Serializer",
-    "type": "library",
-    "license": "Proprietary",
-    "authors": [
-        {
-            "name": "Cristian Moraru",
-            "email": "cristian@comertis.com"
-        }
-    ],
-    "minimum-stability": "stable",
-    "require": {
-        "comertis/exceptions": "^1.0"
+  "name": "subsession/serializers-csv",
+  "description": "CSV Serializer",
+  "type": "library",
+  "license": "Proprietary",
+  "authors": [
+    {
+      "name": "Cristian Moraru",
+      "email": "cristian.moraru@live.com",
+      "role": "Developer"
     }
+  ],
+  "minimum-stability": "stable",
+  "require": {
+    "subsession/exceptions": "^1.0"
+  }
 }
